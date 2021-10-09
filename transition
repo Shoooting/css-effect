@@ -60,7 +60,6 @@
     </style>
 </head>
 <body>
-
     <div id="transition_effect">
         <h1>#transitionイージング関数</h1>
         <div class="bar ease"><p>ease</p></div> <!--開始時と終了時にはゆっくり変化（初期値）-->
